@@ -6,15 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [0.121.9](https://github.com/promptfoo/promptfoo/compare/0.121.8...0.121.9) (2026-04-25)
 
-
 ### Features
 
-* **providers:** add gpt-5.5 model support ([#8884](https://github.com/promptfoo/promptfoo/issues/8884)) ([8c5dc92](https://github.com/promptfoo/promptfoo/commit/8c5dc929a15e3f9c859f930cc71a6f7093bf666e))
-
+- **providers:** add gpt-5.5 model support ([#8884](https://github.com/promptfoo/promptfoo/issues/8884)) ([8c5dc92](https://github.com/promptfoo/promptfoo/commit/8c5dc929a15e3f9c859f930cc71a6f7093bf666e))
 
 ### Bug Fixes
 
-* prevent report table header icon overlap ([#8880](https://github.com/promptfoo/promptfoo/issues/8880)) ([ad87060](https://github.com/promptfoo/promptfoo/commit/ad8706077867f3c5deff4594d93955b1334df09b))
+- prevent report table header icon overlap ([#8880](https://github.com/promptfoo/promptfoo/issues/8880)) ([ad87060](https://github.com/promptfoo/promptfoo/commit/ad8706077867f3c5deff4594d93955b1334df09b))
 
 ## [0.121.8](https://github.com/promptfoo/promptfoo/compare/0.121.7...0.121.8) (2026-04-24)
 
